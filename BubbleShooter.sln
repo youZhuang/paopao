@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleShooter", "Assembly-CSharp-firstpass.csproj", "{51C98664-02C9-C095-DE3A-FDAA4EA5547F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleShooter", "Assembly-CSharp.csproj", "{4BC1E254-A36B-AC3F-05A4-137DF664BAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleShooter", "Assembly-CSharp-Editor.csproj", "{E027ABDC-0361-5575-88B3-A4EDFF838685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C98664-02C9-C095-DE3A-FDAA4EA5547F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C98664-02C9-C095-DE3A-FDAA4EA5547F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C98664-02C9-C095-DE3A-FDAA4EA5547F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C98664-02C9-C095-DE3A-FDAA4EA5547F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC1E254-A36B-AC3F-05A4-137DF664BAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC1E254-A36B-AC3F-05A4-137DF664BAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC1E254-A36B-AC3F-05A4-137DF664BAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC1E254-A36B-AC3F-05A4-137DF664BAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E027ABDC-0361-5575-88B3-A4EDFF838685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E027ABDC-0361-5575-88B3-A4EDFF838685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E027ABDC-0361-5575-88B3-A4EDFF838685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E027ABDC-0361-5575-88B3-A4EDFF838685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
